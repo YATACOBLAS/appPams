@@ -1,0 +1,7 @@
+{
+  "name": "examenes-pams",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
